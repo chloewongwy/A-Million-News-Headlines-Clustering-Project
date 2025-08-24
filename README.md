@@ -1,6 +1,6 @@
 # A Million News Headlines – Clustering Project  
 
-This repository contains my work for the **Kaggle dataset "A Million News Headlines"** ([link](https://www.kaggle.com/datasets/therohk/million-headlines)), completed as part of a Natural Language Processing (NLP) project.  
+This repository contains my work for the **Kaggle dataset "A Million News Headlines"** [link](https://www.kaggle.com/datasets/therohk/million-headlines), completed as part of a Natural Language Processing (NLP) project.  
 The objective was to cluster headlines using different text representation and clustering approaches, and to evaluate performance using **Silhouette Score**.  
 
 ## 📅 Project Info  
